@@ -1,0 +1,26 @@
+{
+  "name": "Evan Welch",
+  "age": 62,
+  "address": {
+    "street": "Rogop Manor",
+    "city": "Naogcu",
+    "state": "LA",
+    "zip": "75839"
+  },
+  "contact": {
+    "phone": "(333) 669-1544",
+    "servicePhone": "800932122"
+  },
+  "birthday": "1971-08-26T03:31:33.430Z",
+  "ip": "254.95.145.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Sozo biagi gul arvote igbovku hege izebe towok titsobusi majcefu tig ehdufpi tervek zop pugbuwzo wal. Siugpom dinukke fataju bo ropkow hikgiz rab evhuema pu zafow oveokiub ha. Puawuoj ute irol hulusa firgas ef pucha va gev heg ojrupum ojo zu pusowo ruseh huiho.",
+    "bio": "Viecpo omanu himazusiz fote rujim mah av rasip mab sapelo vahjevur gi necgeeh zu gudip or cutiwgiw. Va hapedu reftisobu ij di ugo ef jaztol to ej na ho lawer zif. Poz vadjinhuh nakguwme hiwlu ke nirvef hisroaho jigfutef vumlevlav zopdu dovpejaj betsan ca avoemuk guhtupek ze. Kowehit maitiilo hibru nolub le kunu gon kuknicdu faf at ovfihi ez wugom ne."
+  },
+  "apiKey": "fdb13fa980ce70c52b81079303149195b0ad27b50cdc850de05ebe9a849faa0e",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
