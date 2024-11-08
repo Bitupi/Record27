@@ -1,0 +1,26 @@
+{
+  "name": "Austin Gordon",
+  "age": 61,
+  "address": {
+    "street": "Zakmo Drive",
+    "city": "Bezepto",
+    "state": "VT",
+    "zip": "28814"
+  },
+  "contact": {
+    "phone": "(682) 990-5663",
+    "servicePhone": "800267335"
+  },
+  "birthday": "1991-05-10T04:52:35.010Z",
+  "ip": "102.150.21.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Mowpeneg sebeciha poghapad madket ge fanoki uzlemhej fovki isigi adehaid utosiuf mubgo wochuv igsok. Tesijvu ukmo pivo jan wecosbo joh pubumso ic peh wocju fiamuaha paan hilokora jetfij toco. Wejer cejic top domuud tuwa nil lahzuw lubto oceju wap giok fim nuem beosiri.",
+    "bio": "Usba inhohle memew ez bev dopomce toazzoz liagoco iforpe siz nohrid ebeesizi. Lowamko powsi vetivic jerub adu luzci ziduk biz goajael zece hinwon kofen ti. Gail te enjeneni guab emira zi don dahgem ge pibaluju wobkupwiw seed hu ciwod."
+  },
+  "apiKey": "d7b16f5af1622ff3bcfeb5032ddca9d043f9dbe4934adec78412f579211185e2",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
