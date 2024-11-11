@@ -1,0 +1,26 @@
+{
+  "name": "Roy Castro",
+  "age": 25,
+  "address": {
+    "street": "Nafcov Street",
+    "city": "Egaoleb",
+    "state": "MO",
+    "zip": "28822"
+  },
+  "contact": {
+    "phone": "(685) 754-8490",
+    "servicePhone": "800775671"
+  },
+  "birthday": "1961-12-21T09:11:13.404Z",
+  "ip": "94.189.105.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Webaka akneti gapwu abjut lig gi midodvib udenulo taekubok arasijo pohlabej megwowbo efulo luloh wozon vedenejen. Kebicob mi movu invi hiep ne magvomcol mi vu wenhub bag mi tuzcobow fusotuk deevdib pela guh. Furdah hola vonsar cisisa udti niiga ni ewi dul ra kofwikun manuwciw udecuramo dovtin nu oz.",
+    "bio": "Rultub kak nori hid elehones fitpitad tenfug feludjuf juw ratro zadima how mo hubuce uzvice. Ro rodaga tow ejarow le ku mimalub wu otivuwaf wabru kataf la emuga mejup. Emid warzifpuk cuuko sijtuig nifiv pe doc fazaditaw piggudi zektepne obofi tilu."
+  },
+  "apiKey": "8e4509dfffb38d14fe2617d64ea529580b96a2a8f8501b0eebfe74a34362458c",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
