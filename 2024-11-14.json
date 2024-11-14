@@ -1,0 +1,26 @@
+{
+  "name": "Brandon King",
+  "age": 35,
+  "address": {
+    "street": "Geznir Highway",
+    "city": "Babajtat",
+    "state": "IL",
+    "zip": "72690"
+  },
+  "contact": {
+    "phone": "(683) 969-6593",
+    "servicePhone": "800968597"
+  },
+  "birthday": "1967-07-14T01:35:58.826Z",
+  "ip": "166.186.153.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Vodmolu vugogti fufok nekretce mo hohhos me bona hegcesi efiwudu vo vut. Esce zejpuju rah mugujmo ton hipam ujke jifvoruc jodheb herahu lahbaf cug vokzu bo nepwerad womil hivangob bi. Arhu ortis gil fapaw ufifo posi lulo tag guuj fac olirewe walhuw.",
+    "bio": "Wusucfov haebumum vuwamoho fogritte cutfi ud afi cel abofo ib timof erbel zup. Seza safmug fu noiziito jowiej ala uhijo upwozed bejmisa huud nij zepovav le poh vooboaz. Je jasga la ivujo pame hipifomo hajto ida le cisewjig pa zet. Cacuwi ca haijdu nimhedama inwiw icuowbog nulicdek wi ihofijza eweboma jerah eru wikbo zeosino zekgopfem izcaphub."
+  },
+  "apiKey": "f7d21ed22d4983e0fc2db5349a932fd69190f0be51e959fa2a07ec27b3e3f0eb",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
