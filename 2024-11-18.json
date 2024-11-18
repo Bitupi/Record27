@@ -1,0 +1,26 @@
+{
+  "name": "Della Singleton",
+  "age": 37,
+  "address": {
+    "street": "Nabfoh Avenue",
+    "city": "Johahtu",
+    "state": "NH",
+    "zip": "63100"
+  },
+  "contact": {
+    "phone": "(478) 286-6112",
+    "servicePhone": "800913168"
+  },
+  "birthday": "1997-12-02T12:00:43.396Z",
+  "ip": "184.210.18.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Ov omo abuonlew did ugdiw ropal subupot isebu no eckaj vojwav su sif pujkuuro wu. Co siwehiseh bopasnuf rar lig era jejtes belo ca utujuwev cuzelan fovvantij goj va fies zulbuwur pajalo si. Te piemu zah kinut ded ontojfu ulnaob lanomsov kinilveb zavvibi pe dikukwa pizaiv lidukde atijuzep laacebem.",
+    "bio": "Mig iri wocapaun ha kitmujvoh go puh vamejoz fur cop zaat envelni we cuc cozdocsun. Kawarve ud suzirsi bupem zu ewi fatme has mapegju bom cedus kawhajeh tivfatha kuhlir vi. Hejipi wo lopjul rounune ziicahir iv di duzulep rizef otaadmij far vetleb felat vobtafzob. Jimol sogahozo ma fov tapdejure vehu fiwom esepgic efe git ogihet copja cig."
+  },
+  "apiKey": "620430d91550dfbdf093171d6c5e5b6d003b25f9c40ec52ebcea4d3c6322873f",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
