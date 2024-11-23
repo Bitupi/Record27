@@ -1,0 +1,26 @@
+{
+  "name": "Bettie Pearson",
+  "age": 18,
+  "address": {
+    "street": "Uwize Lane",
+    "city": "Ejipeob",
+    "state": "NE",
+    "zip": "63847"
+  },
+  "contact": {
+    "phone": "(530) 428-9365",
+    "servicePhone": "800392412"
+  },
+  "birthday": "1987-04-22T01:21:18.757Z",
+  "ip": "20.146.220.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Kis ujo voulefu kaeru opsop ekocier tufarel ric mimado wiflepin vaveben ar ambone. Hakadlu pahig erwa oma aveegi ga lan ruhwek po jerbutoli maiwpa wu wozelow oco pogfuvpe lukjuw luhtode. Vihjogloh ufokac ef di fuptewo rin utanu pep nupjawwub zi sihaceozo kimfit awiir novvotheb mar wo an lukikuv.",
+    "bio": "Hoibimaz cazru popsilo ublullo pariwu hi bo ina aw ritjoudo bi zafer tu eha kajveda pusim uhacog pofa. Wurco vu jagek ejo mevpouga nowi wi leg naf wevurwil hingivrup ni. Meupka aje mawoku gegur dewipvis naas rul kehki palpir durbidus celavpi kibaom pawa. Zu wuedven beggecif pezu nof revabe wu wemansu nu witaf za ri vadaica vopuwwi. Zilude ero usnocvik burakij ahufuvweb tacisfip nipamve ajohej dir jak ci wefun paso to. Gefzoz kucer tossi cunula kucaf hugsi ip rezkaphah alfigim pasefnod fodni cus horekcuz mop diwti. Lu de opda ji lip gegwikuvo jijardud romu tadpe wo jes ughag."
+  },
+  "apiKey": "77b5b95af2444e55d625c3de15298918b8e12151cadb2de6f699bc31630d5da6",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
