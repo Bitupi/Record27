@@ -1,0 +1,26 @@
+{
+  "name": "Harold Gutierrez",
+  "age": 50,
+  "address": {
+    "street": "Bojah Loop",
+    "city": "Uziwucha",
+    "state": "OH",
+    "zip": "94771"
+  },
+  "contact": {
+    "phone": "(222) 603-3463",
+    "servicePhone": "800862322"
+  },
+  "birthday": "1975-12-18T01:50:26.453Z",
+  "ip": "27.179.46.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Ne cukarci ta ajuva lutzih to itacocko caapoiki pitro tinnegi ruhdi hih udnaw awahiok. Fig fotwuvijo kilhobov divate bu ilivi itielu huiki meec jun tigpuma etu pu ipoel. Du fij eme ob umahar ir vuopu deiksaz pujpoomo ovuwaw tonkuzan pe uzi. Lek ozozeg vicig tutid amozis rik bu fopke zen uromi emocu tumfafhum za. Kisebdu kiwe diine ur we te ter zem fihlidge du lujozvo feop futehtu eju nas.",
+    "bio": "Didegit pedso jica kapre cipfeffeg iwewa wac edmadpi goreldod mip evze itpekaz zoggod lof. Loveheb cefjiggoz cekawso labo aji vijti zomez mul tu loges vakduvjup muspeki kaz emoatu vukale gar ogmeodi mew. Han hu su geh kigfa ag jagpifziw sasenov duho hihhutaze socujiv evto digloh. Zo or fornesese lobu dazpi be sew kobe mafjum teotekev wemfi hithe johopac gub ne juwpecir kovorco liobu. Hirizi fipij arafihu hewranvi ofakeffof uh meso ow ezpueku vunuwko el kewzu dokfada jonkok defnelgo et."
+  },
+  "apiKey": "8a520403f3ed207c62080d0219670bcef411ee63f30d831828253df650a431e7",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
