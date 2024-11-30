@@ -1,0 +1,26 @@
+{
+  "name": "Derek Munoz",
+  "age": 46,
+  "address": {
+    "street": "Jole Mill",
+    "city": "Tidajfu",
+    "state": "OK",
+    "zip": "31119"
+  },
+  "contact": {
+    "phone": "(587) 487-9643",
+    "servicePhone": "800289857"
+  },
+  "birthday": "1993-07-13T05:48:08.464Z",
+  "ip": "70.252.240.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Sedsi buzi ze huwe arhim heta denu loda ic iwhi gojnaj il. Gijad mi kivewu obopi den uhupartat kidlu ludehzu waagte jig de uve bi damhire apike. Lin dapvu hazre gi akco faptopgah kur muekeiwo ke wowruci zipivizo ribkiksu pu.",
+    "bio": "Kaksuv da lahjagu vo nuz oksijmid jotasdos noseb asoinauvi uze ikmilez ihamuem ze ge megme cogaz nihmuj. Juboduege siocaet puav tokoh uscuvi ag ruhihuad jitefa kaced ad cel bizinjic biepe jacro ho lu. Lodi huez otu ala heva fengi popme veb ni ruz hucohrur ofsaspib mop laci towveev hajtopkoh hu vuk."
+  },
+  "apiKey": "2857121383e7ec5003d6b975bad5fd37b638cc6933f1e31d13c2749d47a292a4",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
